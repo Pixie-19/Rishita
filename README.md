@@ -69,7 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixie-19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top langs"  />
   <br />
 
-  <img src="https://raw.githubusercontent.com/Pixie-16/Itz-snj/output/snake.svg" alt="Snake animation" width = "100%"/>
 
 <h1 align="center">GitHub Activity Graph</h1>
 <p align="center">
